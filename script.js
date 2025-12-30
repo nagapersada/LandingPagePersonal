@@ -4,7 +4,7 @@ const members = {
     'deka': {
         name: "Deka Sonjaya",
         photo: "foto-deka.jpg", // Pastikan file ada
-        wa: "6281234567890" // Nomor WA tanpa +
+        wa: "6285524444037" // Nomor WA tanpa +
     },
     'mark': {
         name: "Mark Davis",
