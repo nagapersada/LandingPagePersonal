@@ -17,7 +17,7 @@ const members = {
     },
     'omi': {
         nama: "Tomi Irwandy",
-        photo: "foto-omi",
+        photo: "foto-omi.jpg",
         wa: "6283194535211"
     }
 };
