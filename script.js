@@ -24,7 +24,7 @@ const members = {
 
 const defaultData = {
     name: "DV TEAM NP",
-    photo: "logo.png",
+    photo: " ",
     wa: "6285524444037"
 };
 
