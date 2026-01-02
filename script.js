@@ -9,6 +9,11 @@ const members = {
         name: "Admin DV NP",
         photo: "logo.png",
         wa: "6285524444037"
+    },
+    'ina': {
+        name: "Ina Garnia",
+        photo: "foto-ina.jpg",
+        wa: "6282295683474"
     }
 };
 
