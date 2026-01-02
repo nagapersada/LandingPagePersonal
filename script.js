@@ -9,6 +9,11 @@ const members = {
         name: "Ina Garnia",
         photo: "foto-ina.jpg",
         wa: "62 822-9568-3474"
+    },
+    'martin': {
+        nama: "Marthyn",
+        photos: "foto-martin",
+        wa: "6281394675623"
     }
 };
 
