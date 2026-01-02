@@ -12,7 +12,7 @@ const members = {
     },
     'martin': {
         nama: "Marthyn",
-        photos: "foto-martin.jpg",
+        photo: "foto-martin.jpg",
         wa: "6281394675623"
     }
 };
