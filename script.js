@@ -11,12 +11,12 @@ const members = {
         wa: "6282295683474"
     },
     'martin': {
-        nama: "Marthyn",
+        name: "Marthyn",
         photo: "foto-martin.jpg",
         wa: "6281394675623"
     },
     'omi': {
-        nama: "Tomi Irwandy",
+        name: "Tomi Irwandy",
         photo: "foto-omi.jpg",
         wa: "6283194535211"
     }
