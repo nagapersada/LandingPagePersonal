@@ -22,7 +22,7 @@ const members = {
     },
     'mey': {
         name: "Siti Meiniwati",
-        photo: "foto-mey",
+        photo: "foto-mey.jpg",
         wa: "628987085958"
     }
 };
