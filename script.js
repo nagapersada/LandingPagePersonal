@@ -19,6 +19,11 @@ const members = {
         name: "Tomi Irwandy",
         photo: "foto-omi.jpg",
         wa: "6283194535211"
+    },
+    'mey': {
+        name: "Siti Meiniwati",
+        photo: "foto-mey",
+        wa: "628987085958"
     }
 };
 
